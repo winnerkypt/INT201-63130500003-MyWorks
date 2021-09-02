@@ -1,0 +1,19 @@
+
+สิ่งที่ได้เรียนรู้จาก EP.1
+1.Selector element ด้วย js (getElementById)
+2. ขนาดของ Window (window.innerWidth, window.innerHeight)
+3. การเรียกใช้ Context ของ Canvas (canvas.getContext('2d'))
+4. วิธีวาดวงกลมบน Canvas
+	- .beginPath();
+	- .arc();
+	- .fillStyle
+	- .fill()
+5. ฟังก์ชั่นต่างๆของ JS ในรูปแบบ ES6
+	- Arrow function (() => {})
+	- Spread Operator (...)
+	- .map()
+	- .forEach()
+	- Object Destructuring เช่น const { canvas } = setup();
+6. ฟังก์ชัน Math ของ JS
+	- Math.floor (ปัดเลขให้เป็นจำนวนเต็ม)
+	- Math.random (สุ่มเลขระหว่าง 0, 1)
