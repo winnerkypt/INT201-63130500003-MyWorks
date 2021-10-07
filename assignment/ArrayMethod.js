@@ -43,4 +43,4 @@ console.log(num.join('')) //หาอะไรมาคั่น
 console.log(num.reduce(a=>a<0))
 
 let num2 = [1,2,3,4,5]
-console.log(num2s.reduce((a,b)=>a+b))
+console.log(num2.reduce((a,b)=>a+b))
