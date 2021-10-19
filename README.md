@@ -2,5 +2,5 @@
 
 | Topics                        | Files                                  |
 | ----------------------------- | -------------------------------------- |
-| รวมการทำ challenge 21 วัน      | [21DaysChallenge](INT201-63130500003-MyWorks/21DayChallengeJS)   |
+| รวมการทำ challenge 21 วัน      | [21DaysChallengeJS](INT201-63130500003-MyWorks/21DayChallengeJS)   |
 | รวมการทำ assignment ในห้องเรียน |
