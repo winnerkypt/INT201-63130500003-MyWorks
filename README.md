@@ -10,3 +10,5 @@
 1. โปรแกรมคำนวณเกรด [view](https://github.com/ImFineGarrix/INT201-G02-GroupWorks-01)
 2. โปรแกรมคำนวณหาค่า BMI
 3. โปรแกรมคำนวณหาจำนวนเงินที่ต้องทอน [view](https://github.com/winworkkmutt/INT201-G02-GroupWorks-03)
+4. วิธีการใช้ concat method และ map method
+5. การทำ closure/higher-order function และ การ import-export ไฟล์ [view](https://github.com/winworkkmutt/INT201-G02-GroupWorks-05)
