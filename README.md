@@ -12,3 +12,7 @@
 3. โปรแกรมคำนวณหาจำนวนเงินที่ต้องทอน [view](https://github.com/winworkkmutt/INT201-G02-GroupWorks-03)
 4. วิธีการใช้ concat method และ map method
 5. การทำ closure/higher-order function และ การ import-export ไฟล์ [view](https://github.com/winworkkmutt/INT201-G02-GroupWorks-05)
+
+## About me
+งานนี้เป็นส่วนหนึ่งของวิชา INT214 Statistics for Information technology <br>
+ภาคเรียนที่ 1 ปีการศึกษา 2564 คณะเทคโนโลยีสารสนเทศ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี
