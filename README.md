@@ -6,4 +6,4 @@
 | รวมการฝึกทำโจทย์ | [assignment](https://github.com/winnerkypt/INT201-63130500003-MyWorks/tree/main/assignment) |
 | รวมการศึกษา JavaScript เบื้องต้นจาก youtube | [basicJS](https://github.com/winnerkypt/INT201-63130500003-MyWorks/tree/main/basicJS) |
 
-## assignment ต่าง ๆ ที่ทำภายในกลุ่ม
+## repositories ต่าง ๆ ที่ทำภายในกลุ่ม
