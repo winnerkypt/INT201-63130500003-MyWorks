@@ -2,6 +2,6 @@
 1. รวมการทำ challenge 21 วัน 
 2. รวมการทำ assignment ในห้องเรียน
 
-| Class R | Topics                              | Instruction Files                          |
-| ------- | ----------------------------------- | ------------------------------------------ |
-| Class 1 | Introduction + Setting up R         | [01-Intro-R](workshop/01-intro-R.md)       |
+
+| ----------------------------------- | ------------------------------------------ |
+| Introduction + Setting up R         | [01-Intro-R](workshop/01-intro-R.md)       |
