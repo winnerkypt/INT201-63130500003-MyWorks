@@ -1,3 +1,3 @@
 let animal = ['ant','bird','cat']
-console.log(animal.shift())
-console.log(animal)
+console.log(animal.shift()) //ant
+console.log(animal) //[ 'bird', 'cat' ]
