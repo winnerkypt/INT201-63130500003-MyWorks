@@ -14,5 +14,5 @@
 5. การทำ closure/higher-order function และ การ import-export ไฟล์ [view](https://github.com/winworkkmutt/INT201-G02-GroupWorks-05)
 
 ## About me
-งานนี้เป็นส่วนหนึ่งของวิชา INT214 Statistics for Information technology <br>
+งานนี้เป็นส่วนหนึ่งของวิชา INT201 Client-side Web Programming I  <br>
 ภาคเรียนที่ 1 ปีการศึกษา 2564 คณะเทคโนโลยีสารสนเทศ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี
